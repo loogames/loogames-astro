@@ -5,8 +5,6 @@
 
 ![example page](pageexample.png)
 
-![performance web](performance.png)
-
 <hr/>
 
 <h3 align="center">
